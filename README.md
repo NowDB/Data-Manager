@@ -1,2 +1,2 @@
-# Data-Manager
+# Data Manager
 NowDB Cloud Data Manager
